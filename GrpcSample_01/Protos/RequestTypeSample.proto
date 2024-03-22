@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcSample_01.Practice";
+
+import "google/api/annotations.proto";
+import "google/protobuf/any.proto";
+import "google/protobuf/struct.proto";
+
+package requestType;
+
+service requestType {
+  rpc TestDynamic (stream TestDynamicRequest) returns (TestDynamicResponse) {
+	option (google.api.http) = {
+	  post: "/v1/dynamincTest",
+	  body: "*"
+	};
+  }
+}
+
+message TestDynamicRequest {
+  google.protobuf.Struct data = 1;
+  //google.protobuf.Any test = 2;
+  //repeated google.protobuf.Any testList = 3;
+  //repeated google.protobuf.Struct testList2 = 4;
+}
+
+message TestDynamicResponse {
+  string result = 1;
+
+}
