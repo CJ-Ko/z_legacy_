@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lBmUwRrNWzoiLwxiXMzouIejVSk8Q5SiRQmESZQgxSI=",
+  "Source": "GrpcNetCoreServerTest",
+  "BasePath": "_content/GrpcNetCoreServerTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

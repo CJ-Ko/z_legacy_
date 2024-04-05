@@ -1,0 +1,12 @@
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\bin\Debug\net8.0\GrpcProtoLib.deps.json
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\bin\Debug\net8.0\GrpcProtoLib.dll
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\bin\Debug\net8.0\GrpcProtoLib.pdb
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.csproj.AssemblyReference.cache
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.AssemblyInfoInputs.cache
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.AssemblyInfo.cs
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.csproj.CoreCompileInputs.cache
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.dll
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\refint\GrpcProtoLib.dll
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\GrpcProtoLib.pdb
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\net8.0\ref\GrpcProtoLib.dll

@@ -1,0 +1,10 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcProtoLib";
+
+import "Protos/Common/PublicModel.proto";
+// The greeting service definition.
+service TypeAService {
+  // Sends a greeting
+  rpc FirstHello (GrpcProtoLib.Model.BaseRequestModel) returns (GrpcProtoLib.Model.BaseResponseModel){}
+}

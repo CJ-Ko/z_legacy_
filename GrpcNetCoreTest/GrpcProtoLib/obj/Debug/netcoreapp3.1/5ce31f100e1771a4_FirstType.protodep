@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1\Protos\TypeA/FirstType.cs \
+obj\Debug\netcoreapp3.1\Protos\TypeA/FirstTypeGrpc.cs: Protos/Common/PublicModel.proto\
+ Protos/TypeA/FirstType.proto

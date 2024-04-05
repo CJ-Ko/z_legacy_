@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS\\GrpcNetCoreTest\\GrpcNetCoreClientTest\\GrpcNetCoreClientTest_.csproj": {}
+  },
+  "projects": {
+    "E:\\VS\\GrpcNetCoreTest\\GrpcNetCoreClientTest\\GrpcNetCoreClientTest_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS\\GrpcNetCoreTest\\GrpcNetCoreClientTest\\GrpcNetCoreClientTest_.csproj",
+        "projectName": "GrpcNetCoreClientTest_",
+        "projectPath": "E:\\VS\\GrpcNetCoreTest\\GrpcNetCoreClientTest\\GrpcNetCoreClientTest_.csproj",
+        "packagesPath": "C:\\Users\\고창재\\.nuget\\packages\\",
+        "outputPath": "E:\\VS\\GrpcNetCoreTest\\GrpcNetCoreClientTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\VS\\GrpcNetCoreTest\\NuGet.Config",
+          "C:\\Users\\고창재\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/4ones/Platform/_packaging/epoch-feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/4ones/Winjoy/_packaging/portal_packages_feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/4ones/_packaging/4ones/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\VS\\GrpcNetCoreTest\\GrpcProtoLib\\GrpcProtoLib.csproj": {
+                "projectPath": "E:\\VS\\GrpcNetCoreTest\\GrpcProtoLib\\GrpcProtoLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\VS\\GrpcNetCoreTest\\GrpcProtoLib\\GrpcProtoLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS\\GrpcNetCoreTest\\GrpcProtoLib\\GrpcProtoLib.csproj",
+        "projectName": "GrpcProtoLib",
+        "projectPath": "E:\\VS\\GrpcNetCoreTest\\GrpcProtoLib\\GrpcProtoLib.csproj",
+        "packagesPath": "E:\\packages",
+        "outputPath": "E:\\VS\\GrpcNetCoreTest\\GrpcProtoLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\VS\\GrpcNetCoreTest\\NuGet.Config",
+          "C:\\Users\\고창재\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/4ones/Platform/_packaging/epoch-feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/4ones/Winjoy/_packaging/portal_packages_feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/4ones/_packaging/4ones/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.40.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

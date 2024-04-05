@@ -1,0 +1,8 @@
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\bin\Debug\netcoreapp3.1\GrpcProtoLib.deps.json
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\bin\Debug\netcoreapp3.1\GrpcProtoLib.dll
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\bin\Debug\netcoreapp3.1\GrpcProtoLib.pdb
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\netcoreapp3.1\GrpcProtoLib.AssemblyInfoInputs.cache
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\netcoreapp3.1\GrpcProtoLib.AssemblyInfo.cs
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\netcoreapp3.1\GrpcProtoLib.csproj.CoreCompileInputs.cache
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\netcoreapp3.1\GrpcProtoLib.dll
+E:\VS\GrpcNetCoreTest\GrpcProtoLib\obj\Debug\netcoreapp3.1\GrpcProtoLib.pdb

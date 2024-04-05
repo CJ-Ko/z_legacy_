@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Protos\TypeB/SecondType.cs \
+obj\Debug\net8.0\Protos\TypeB/SecondTypeGrpc.cs: Protos/Common/PublicModel.proto\
+ Protos/TypeB/SecondType.proto

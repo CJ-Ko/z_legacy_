@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9Lb8VXNnUZH1hVDfs+wjz/a5ofPGovihmhM5XeialYqpfERTESPvnf7HhLHI8vJ9LxeV1wrWTxhKYhjcLY6Zg==",
+  "success": true,
+  "projectFilePath": "E:\\VS\\GrpcNetCoreTest\\GrpcNetCoreClientTest\\GrpcNetCoreClientTest.csproj",
+  "expectedPackageFiles": [
+    "E:\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",
+    "E:\\packages\\grpc.aspnetcore\\2.61.0\\grpc.aspnetcore.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.aspnetcore.server\\2.61.0\\grpc.aspnetcore.server.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.aspnetcore.server.clientfactory\\2.61.0\\grpc.aspnetcore.server.clientfactory.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.core.api\\2.61.0\\grpc.core.api.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.net.client\\2.61.0\\grpc.net.client.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.net.clientfactory\\2.61.0\\grpc.net.clientfactory.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.net.common\\2.61.0\\grpc.net.common.2.61.0.nupkg.sha512",
+    "E:\\packages\\grpc.tools\\2.61.0\\grpc.tools.2.61.0.nupkg.sha512",
+    "E:\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "E:\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "E:\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "E:\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "E:\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "E:\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "E:\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "E:\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

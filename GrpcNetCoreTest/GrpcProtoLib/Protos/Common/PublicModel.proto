@@ -1,0 +1,16 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "GrpcProtoLib.Model.Common";
+
+package GrpcProtoLib.Model;
+
+// The request message containing the user's name.
+message BaseRequestModel {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message BaseResponseModel {
+  string no = 1;
+  string message = 2;
+}

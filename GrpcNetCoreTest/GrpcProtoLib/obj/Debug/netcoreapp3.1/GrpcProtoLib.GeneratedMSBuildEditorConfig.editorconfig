@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = GrpcProtoLib
+build_property.ProjectDir = E:\VS\GrpcNetCoreTest\GrpcProtoLib\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

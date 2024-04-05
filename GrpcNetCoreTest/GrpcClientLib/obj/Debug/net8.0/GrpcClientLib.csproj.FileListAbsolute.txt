@@ -1,0 +1,15 @@
+E:\VS\GrpcNetCoreTest\GrpcClientLib\bin\Debug\net8.0\GrpcClientLib.deps.json
+E:\VS\GrpcNetCoreTest\GrpcClientLib\bin\Debug\net8.0\GrpcClientLib.dll
+E:\VS\GrpcNetCoreTest\GrpcClientLib\bin\Debug\net8.0\GrpcClientLib.pdb
+E:\VS\GrpcNetCoreTest\GrpcClientLib\bin\Debug\net8.0\GrpcProtoLib.dll
+E:\VS\GrpcNetCoreTest\GrpcClientLib\bin\Debug\net8.0\GrpcProtoLib.pdb
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.csproj.AssemblyReference.cache
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.AssemblyInfoInputs.cache
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.AssemblyInfo.cs
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.csproj.CoreCompileInputs.cache
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.csproj.CopyComplete
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.dll
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\refint\GrpcClientLib.dll
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\GrpcClientLib.pdb
+E:\VS\GrpcNetCoreTest\GrpcClientLib\obj\Debug\net8.0\ref\GrpcClientLib.dll

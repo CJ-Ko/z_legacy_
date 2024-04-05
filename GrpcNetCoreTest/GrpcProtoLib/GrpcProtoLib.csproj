@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RestorePackagesPath>E:\packages</RestorePackagesPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Protos\Common\PublicModel.proto" />
+    <None Remove="Protos\TypeA\FirstType.proto" />
+    <None Remove="Protos\TypeB\SecondType.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.40.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Protos\Common\PublicModel.proto" GrpcServices="Both" />
+    <Protobuf Include="Protos\TypeA\FirstType.proto" GrpcServices="Both" />
+    <Protobuf Include="Protos\TypeB\SecondType.proto" GrpcServices="Both" />
+  </ItemGroup>
+</Project>
